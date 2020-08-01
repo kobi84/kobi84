@@ -1,16 +1,32 @@
-### Hi there 👋
+![Header image](assets/header.jpg)
 
-<!--
-**kobi84/kobi84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------
+Hi there, my name is Tomasz Kobiela and I am Fronted Developer from Poland.  
+I started my career in company selling commercial version of Linux distribution.  
+I was responsible for maintaining it and creating graphical tools for this distribution.  
+After few years I moved to frontend and decided to develop in this area.  
+Currently I'm working on big project using Angular.
 
-Here are some ideas to get you started:
+------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Programming languages
+
+TypeScript, JS, HTML5, CSS5, SASS
+
+#### Frameworks
+
+Angular, NativeScript, ExtJS
+
+#### Tools
+
+Visual Studio Code, Git, Azure DevOps, JIRA, Bamboo, Confluence, GIMP, Inkscape, Linux
+
+------
+
+#### Hobbies
+
+:headphones: :book: :airplane: :computer: :tv: :cat2:
+
+#### Contact
+
+[![LinkedIn](assets/linkedin.jpg)](https://www.linkedin.com/in/tomaszkobiela84/)
