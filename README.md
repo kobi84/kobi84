@@ -1,4 +1,4 @@
-![Header image](assets/header.jpg)
+![Header image](https://github.com/kobi84/kobi84/blob/master/assets/header.jpg?raw=true)
 
 ------
 Hi there, my name is Tomasz Kobiela and I am Fronted Developer from Poland.  
@@ -29,4 +29,4 @@ Visual Studio Code, Git, Azure DevOps, JIRA, Bamboo, Confluence, GIMP, Inkscape,
 
 #### Contact
 
-[![LinkedIn](assets/linkedin.jpg)](https://www.linkedin.com/in/tomaszkobiela84/)
+[![LinkedIn](https://github.com/kobi84/kobi84/blob/master/assets/linkedin.jpg?raw=true)](https://www.linkedin.com/in/tomaszkobiela84/)
