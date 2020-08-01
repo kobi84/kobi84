@@ -1,15 +1,17 @@
-### Hi there 👋
+### Hi there, my name is Tomasz Kobiela and I am Fronted Developer from Poland.
 
 ![Header image](assets/header.jpg)
 
 ------
 
-My name is Tomasz Kobiela and I am Fronted Developer from Poland.  
 I started my career in company selling commercial version of Linux distribution.  
-I was responsible for maintaining it and create graphical tools for this distribution.  
-After few years I moved to Frontend and decided to develop in this area.  
-Currently I am working with Angular.
+I was responsible for maintaining it and creating graphical tools for this distribution.  
+After few years I moved to frontend and decided to develop in this area.  
+Currently I'm working on big project using Angular.
 
 ------
-Hobbies: :headphones: :book: :airplane: :computer: :tv: :cat2:
+#### Skills:
 
+------
+#### Hobbies:
+:headphones: :book: :airplane: :computer: :tv: :cat2:
